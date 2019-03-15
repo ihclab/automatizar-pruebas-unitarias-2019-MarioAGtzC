@@ -9,7 +9,7 @@ namespace AutomatizarPruebasUnitarias {
     class Medias {
 
         /**
-         * Calcula y regresa la media artimética
+         * Calcula y regresa la media artiméticas
          */
         public static double mediaAritmetica(params int[] vals) { }
 
