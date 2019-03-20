@@ -1,0 +1,11 @@
+C:\Users\mario\Desktop\UnitTesting\UnitTesting\bin\Debug\netcoreapp2.0\UnitTesting.deps.json
+C:\Users\mario\Desktop\UnitTesting\UnitTesting\bin\Debug\netcoreapp2.0\UnitTesting.runtimeconfig.json
+C:\Users\mario\Desktop\UnitTesting\UnitTesting\bin\Debug\netcoreapp2.0\UnitTesting.runtimeconfig.dev.json
+C:\Users\mario\Desktop\UnitTesting\UnitTesting\bin\Debug\netcoreapp2.0\UnitTesting.dll
+C:\Users\mario\Desktop\UnitTesting\UnitTesting\bin\Debug\netcoreapp2.0\UnitTesting.pdb
+C:\Users\mario\Desktop\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.0\UnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\mario\Desktop\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.0\UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.0\UnitTesting.AssemblyInfoInputs.cache
+C:\Users\mario\Desktop\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.0\UnitTesting.AssemblyInfo.cs
+C:\Users\mario\Desktop\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.0\UnitTesting.dll
+C:\Users\mario\Desktop\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.0\UnitTesting.pdb
